@@ -1,0 +1,19 @@
+.heading {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #c90e5c;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#first-div {
+    color: hsl(239, 74%, 42%);
+    font-size: 36px;
+}
+
+#second-div {
+    background-color: rgb(15, 170, 41);
+    font-size: 24px;
+    font-weight: bold;
+}
